@@ -31,7 +31,7 @@ Technologies Used
 ---
 
 Project Structure
-
+```text
 Students CLI Tool/
 │
 ├── database.py
@@ -46,6 +46,7 @@ Students CLI Tool/
     ├── update_name.py
     ├── update_age.py
     └── update_city.py
+```
 
 ---
 

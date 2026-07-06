@@ -32,7 +32,7 @@ Technologies Used
 
 Project Structure
 ```text
-Students CLI Tool/
+Project/
 │
 ├── database.py
 ├── main.py
